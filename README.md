@@ -4,7 +4,7 @@
 
 
 - 💼 &nbsp; Full Stack Web Developer and Programmer.
-- 🔭 &nbsp; I’m currently learning MERN, SpringBoot and DS.
+- 🔭 &nbsp; I’m currently learning MERN Stack.
 - 🤔 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and computer programming.
 - 🌱 &nbsp; Enthusiast in Open Source, Cloud Technology.
@@ -12,8 +12,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Javascript | Python    
-- 🌐 &nbsp; HTML | CSS | Bootstrap | jQuery | React.js | Django
+- 💻 &nbsp; Java | Javascript | Python | HTML | CSS   
+- 🌐 &nbsp; Bootstrap | jQuery | React.js | Django | SpringBoot
 - 🐍 &nbsp; Selenium | Postman | REST API | 
 - ☁ &nbsp; Heroku | Netlify |
 - 🔧 &nbsp; Github | PyCharm | Eclipse | Git | IntelliJ Idea
