@@ -4,10 +4,10 @@
 
 
 - 💼 &nbsp; Full Stack Web Developer and Programmer.
-- 🔭 &nbsp; I’m currently learning MERN Stack.
+- 🔭 &nbsp; I’m currently learning Mobile App Development (Android & iOS).
 - 🤔 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and computer programming.
-- 🌱 &nbsp; Enthusiast in Open Source, Cloud Technology.
+- 🎓 &nbsp; Studying Mobile App Development Course.
+- 🌱 &nbsp; Enthusiast in Web Development and Cloud Technology.
 
 
 <h3>🛠 Tech Stack</h3>
