@@ -1,23 +1,15 @@
-<h2> Hey there! I'm Amardeep. <img src="Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="gif2.gif" width="500"/>
+<h1> Hey there! I'm Amardeep. <img src="Hi.gif" width="25"></h1> <img align="right" alt="GIF" src="gif2.gif" width="500"/> 
 <h3> 👨🏻‍💻 About Me </h3>
-
-
-- 💼 &nbsp; Full Stack Web Developer and Programmer.
-- 🔭 &nbsp; I’m currently learning Mobile App Development (Android & iOS).
-- 🤔 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Mobile App Development Course.
-- 🌱 &nbsp; Enthusiast in Web Development and Cloud Technology.
-
+💼   Full Stack Java Developer specialized in the Spring Boot framework.
+🎓   Currently studying Cloud Computing at York University, Toronto, Canada.
+🌐   Learning and exploring cloud development and related technologies.
+🌱   Passionate about building scalable backend applications and enhancing my skills in cloud infrastructure.
 
 <h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Java | Javascript | Python | HTML | CSS   
-- 🌐 &nbsp; Bootstrap | jQuery | React.js | Django | SpringBoot
-- 🐍 &nbsp; Selenium | Postman | REST API | 
-- ☁ &nbsp; Heroku | Netlify |
-- 🔧 &nbsp; Github | PyCharm | Eclipse | Git | IntelliJ Idea
-
+💻   Core Java | JavaScript | HTML | CSS | SQL
+🌐   React.js | Spring Boot | REST API | Oracle SQL | MongoDB
+☁️    AWS | Azure | Docker | Kubernetes | Jenkins
+🛠   Git | IntelliJ IDEA | Eclipse | Postman
 
 
 </br>
