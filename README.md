@@ -1,6 +1,6 @@
 <h1> Hey there! I'm Amardeep. <img src="Hi.gif" width="25"></h1> <img align="right" alt="GIF" src="gif2.gif" width="500"/> 
 <h3> 👨🏻‍💻 About Me </h3>
-💼   Full Stack Java Developer specialized in the Spring Boot framework.
+💼   Full Stack Java Developer specialized in the Spring Boot framework. <br>
 🎓   Currently studying Cloud Computing at York University, Toronto, Canada.
 🌐   Learning and exploring cloud development and related technologies.
 🌱   Passionate about building scalable backend applications and enhancing my skills in cloud infrastructure.
