@@ -6,9 +6,9 @@
 🌱   Passionate about building scalable Java applications and currently enhancing my skills in AWS cloud infrastructure. <br>
 
 <h3>🛠 Tech Stack</h3>
-💻   Core Java | JavaScript | HTML | CSS | SQL <br>
-🌐   React.js | Spring Boot | REST API | Oracle SQL | MongoDB <br>
-☁️   AWS | Docker | Kubernetes | Jenkins <br>
+💻   Java 8/11 | C | HTML/CSS | JavaScript | SQL | PL/SQL <br>
+🌐   J2EE/JEE | Spring MVC | React | Spring Boot | Spring Data | Spring Cloud | Spring Security <br>
+☁️   AWS (VPC, IAM, EC2, S3, RDS) | Docker | Kubernetes | Linux | Jenkins <br>
 🛠   Kafka | Redis | Maven | Gradle | IntelliJ IDEA | Swagger | Postman | VSCode | Git | Jira <br>
 
 
