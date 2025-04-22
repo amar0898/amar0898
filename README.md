@@ -1,15 +1,15 @@
 <h1> Hey there! I'm Amardeep. <img src="Hi.gif" width="25"></h1> <img align="right" alt="GIF" src="gif2.gif" width="400"/> 
 <h3> 👨🏻‍💻 About Me </h3>
 💼   Backend Java Developer specialized in the Spring Boot framework. <br>
-🎓   Currently studying Cloud Computing at York University, Toronto, Canada. <br>
-🌐   Learning and exploring cloud development and related technologies. <br>
-🌱   Passionate about building scalable backend applications and enhancing my skills in cloud infrastructure. <br>
+🎓   Skilled in database design with SQL/PLSQL, real-time data processing with Apache Kafka and Redis, and deploying cloud-native applications on AWS using Terraform, Ansible, Docker, and Kubernetes. <br>
+🌐   Experienced in CI/CD pipeline development and API testing, with a focus on delivering efficient, reliable, and maintainable backend applications. <br>
+🌱   Passionate about building scalable Java applications and currently enhancing my skills in AWS cloud infrastructure. <br>
 
 <h3>🛠 Tech Stack</h3>
 💻   Core Java | JavaScript | HTML | CSS | SQL <br>
 🌐   React.js | Spring Boot | REST API | Oracle SQL | MongoDB <br>
-☁️    AWS | Docker | Kubernetes | Jenkins <br>
-🛠   Git | IntelliJ IDEA | Eclipse | Postman <br>
+☁️   AWS | Docker | Kubernetes | Jenkins <br>
+🛠   Kafka | Redis | Maven | Gradle | IntelliJ IDEA | Swagger | Postman | VSCode | Git | Jira <br>
 
 
 </br>
